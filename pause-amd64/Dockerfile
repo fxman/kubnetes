@@ -1,1 +1,1 @@
-From gcr.io/google_containers/pause-amd64
+From gcr.io/google_containers/pause-amd64:3.1
