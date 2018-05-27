@@ -1,1 +1,1 @@
-From gcr.io/google_containers/kubedns-amd64
+From k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.1
