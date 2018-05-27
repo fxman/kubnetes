@@ -1,1 +1,1 @@
-From gcr.io/google_containers/kube-dnsmasq-amd64
+From k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.10
