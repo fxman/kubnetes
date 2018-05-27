@@ -1,1 +1,1 @@
-From gcr.io/google_containers/kube-discovery-amd64
+From k8s.gcr.io/k8s-dns-sidecar-amd64:1.14.10
