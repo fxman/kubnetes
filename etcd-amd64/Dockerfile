@@ -1,1 +1,1 @@
-From gcr.io/google_containers/etcd-amd64
+From k8s.gcr.io/etcd-amd64:3.1.12
